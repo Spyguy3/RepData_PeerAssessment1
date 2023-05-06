@@ -4,7 +4,7 @@ author: "Bill Lisse"
 date: "May 6, 2023"
 ---
 
-github repo for rest of specialization: [Data Science Coursera](https://github.com/mGalarnyk/datasciencecoursera)
+github repo for rest of specialization: [Data Science Coursera](https://github.com/spyguy3/datasciencecoursera)
 
 Introduction
 ------------
